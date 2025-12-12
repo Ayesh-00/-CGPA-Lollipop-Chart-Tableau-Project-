@@ -1,0 +1,4 @@
+-- High/Low CGPA Based on ABS Function
+IF ABS([CGPA]) >= 3.5 THEN "High CGPA"
+ELSE "Low CGPA"
+END
